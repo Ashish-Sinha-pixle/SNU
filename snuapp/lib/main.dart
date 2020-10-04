@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:snuapp/Screens/Welcome/welcome_screen.dart';
 import 'package:snuapp/constants.dart';
-
+///////////////main file
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
